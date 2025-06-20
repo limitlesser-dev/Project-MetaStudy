@@ -75,7 +75,7 @@ But by documenting every step, we’ll find out.
 
 ## 📬 Want to Collaborate?
 
-Open to discussions, feedback, or trying this system together. Feel free to [open an issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues) or start a conversation.
+Open to discussions, feedback, or trying this system together. Feel free to [open an issue](https://github.com/limitlesser-dev/Project-MetaStudy/issues) or start a conversation.
 
 ---
 
