@@ -41,7 +41,7 @@ I'll be regularly logging progress:
 - What I learned
 - How the system is evolving
 
-👉 [nice](./logs/) for updates
+👉 [See Logs](./logs/) for updates
 
 ---
 
