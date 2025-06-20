@@ -1,47 +1,45 @@
 # Project-MetaStudy
 
-# 📚 MetaStudy: Rethinking Learning with AI, Mental Models & Smart Systems
+## 📚 MetaStudy: Rethinking Learning with AI, Mental Models & Smart Systems
 
-Welcome to the MetaStudy project — a personal and experimental journey to challenge traditional study methods using:
-- 🤖 Artificial Intelligence (as a thinking/learning partner)
+Welcome to MetaStudy — an ongoing, personal experiment challenging traditional study methods using:
+- 🤖 Artificial Intelligence as a thinking/learning partner
 - 🧠 Mental Models & Cognitive Frameworks
 - 🛠️ Smart Study Tricks & Learning Hacks
 
-This is **not** just a knowledge base — it's a **real-time, reflective experiment** to test whether this new system is actually better.
+_Not just a knowledge base — a real-time, reflective experiment in building a better system for learning._
 
 ---
 
 ## 🧭 Project Goals
 
-- Challenge the default "school-style" learning model.
-- Explore how AI can personalize and supercharge learning.
-- Build and test a toolbox of mental models and frameworks.
-- Measure and reflect on progress over time (daily/weekly logs).
-- Document everything openly — successes, failures, and pivots.
+- Challenge the default “school-style” learning model
+- Explore how AI can personalize and supercharge learning
+- Build and test a toolbox of mental models and frameworks
+- Measure and reflect on progress over time (via logs)
+- Document everything openly — successes, failures, and pivots
+
+**These goals remain active and unchanged.**
 
 ---
 
-## 🔍 What This Repo Contains
+## 📝 Progress & Lessons
+
+This project is under active development. Key lessons, experiments, and reflections are captured in logs and commit messages.
+
+- See `/logs/` for regular progress updates and insights
+- Review commit history for snapshots of daily learning and pivots
+
+---
+
+## 📦 Repo Structure
 
 | Folder/File      | Purpose |
 |------------------|---------|
-| `README.md`      | This main overview |
+| `README.md`      | Overview |
 | `/docs/`         | Core ideas, models, methods |
-| `/logs/`         | Daily or weekly reflections & progress logs |
+| `/logs/`         | Reflections & progress logs |
 | `/experiments/`  | Learning challenges or test cases |
-| `/ai-tools/`     | Prompts, workflows, integrations used |
-
----
-
-## 📅 Learning Log
-
-I'll be regularly logging progress:
-- What I tried
-- What worked/didn't
-- What I learned
-- How the system is evolving
-
-👉 [See Logs](./logs/) for updates
 
 ---
 
@@ -49,33 +47,30 @@ I'll be regularly logging progress:
 
 > “Learning isn’t about stuffing your brain — it’s about building a system that thinks better.”
 
-Traditional study often focuses on memorization. This project explores:
-- Thinking **from first principles**
-- Using **frameworks to guide action**
-- Leveraging **AI to simulate mentors, tutors, or sparring partners**
+This project focuses on:
+- Thinking from first principles
+- Using frameworks to guide action
+- Leveraging AI to simulate mentors, tutors, or sparring partners
 
 ---
 
 ## ⚙️ Tech & Tools
 
-- ChatGPT (AI assistance)
-- Custom prompts & tools (in `/ai-tools/`)
-- Markdown for documentation
+- AI tools (e.g., ChatGPT)
+- Markdown documentation
 - GitHub for version control & reflection history
 
 ---
 
-## ✨ Status: Ongoing Experiment
+## ✨ Status: Actively Experimenting
 
-I don’t know if this method will work better — that’s the point.
-
-But by documenting every step, we’ll find out.
+The system is a work in progress — goals, methods, and results continue to evolve as I learn.
 
 ---
 
 ## 📬 Want to Collaborate?
 
-Open to discussions, feedback, or trying this system together. Feel free to [open an issue](https://github.com/limitlesser-dev/Project-MetaStudy/issues) or start a conversation.
+Open to discussions, feedback, or shared experiments. Feel free to [open an issue](https://github.com/limitlesser-dev/Project-MetaStudy/issues) or start a conversation.
 
 ---
 
