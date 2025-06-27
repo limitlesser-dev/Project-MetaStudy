@@ -34,12 +34,13 @@ This project is under active development. Key lessons, experiments, and reflecti
 
 ## 📦 Repo Structure
 
-| Folder/File      | Purpose |
-|------------------|---------|
-| `README.md`      | Overview |
-| `/docs/`         | Core ideas, models, methods |
-| `/logs/`         | Reflections & progress logs |
-| `/experiments/`  | Learning challenges or test cases |
+| Folder/File     | Purpose                                   |
+| --------------- | ----------------------------------------- |
+| `README.md`     | Overview                                  |
+| `/docs/`        | Core ideas, models, methods               |
+| `/logs/`        | More Refined, Reflections & progress logs |
+| `/logs-Raw`     | More Raw & Real Voice                     |
+| `/experiments/` | Learning challenges or test cases         |
 
 ---
 
