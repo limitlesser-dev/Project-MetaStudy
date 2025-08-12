@@ -1,4 +1,4 @@
-Excellent! Let's build on that real-world example of organizing data in rows and columns and formally define what a matrix is.
+ Excellent! Let's build on that real-world example of organizing data in rows and columns and formally define what a matrix is.
 
 ---
 

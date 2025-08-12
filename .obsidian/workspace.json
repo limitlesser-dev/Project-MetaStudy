@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "415016d273199ce1",
+        "id": "75b9f2de1758a4c8",
         "type": "tabs",
         "children": [
           {
-            "id": "c5b80baaaec534b0",
+            "id": "b611a920dd6299a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Maths/Maths chapter 3/Chapter 3 - Matrices - Part 2- Definition and Types of Matrices.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapter 3 - Matrices - Part 2- Definition and Types of Matrices"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Operations on Matrices",
+                "query": "commutative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -164,44 +168,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e6526325ed0b887",
+  "active": "b611a920dd6299a5",
   "lastOpenFiles": [
     "Maths/Maths chapter 3/Chapter 3 Part 1.md",
-    "Maths/Maths chapter 3/Chapter 3 - Matrices - Part 9 - Symmetric and Skew-Symmetric Matrices.md",
+    "Maths/Maths chapter 3/Chapter 3 - Matrices - Part 10 - Elementary Operations (Transformations) on a Matrix.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Solvent.md",
     "Maths/Maths chapter 3/Chapter 3 - Matrices - Part 7 - Properties of Matrix Operations.md",
     "Maths/Maths chapter 3/Chapter 3  Matrices - Part 6 - Operations on Matrices (Contd.) - Quick Activity Solution.md",
-    "Maths/Maths chapter 3/Chapter 3  Matrices - Part 8 Transpose of a Matrix.md",
+    "Transpose of a Matrix.md",
+    "Maths/Maths chapter 3/Chapter 3 - Matrices - Part 2- Definition and Types of Matrices.md",
     "Maths/Maths chapter 3/Chapter 3 - Matrices - Part 5 - Operations on Matrices (Contd.).md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Maths/Maths chapter 3/Chapter 3 - Matrices - Part 9 - Symmetric and Skew-Symmetric Matrices.md",
+    "README.md",
+    "Maths/Maths chapter 3/Chapter 3- Matrices - Part 4- Operations on Matrices.md",
+    "Maths/Maths chapter 3/Chapter 3 - Matrices - Part 3 - Equality of Matrices.md",
+    "Maths/Maths chapter 3/Chapter 3  Matrices - Part 8 Transpose of a Matrix.md",
     "Maths/Maths Doubts/Chapter 3 - Matrices - Clarifying Symmetric, Skew-Symmetric, and Neither.md",
     "Maths/Maths Doubts/Chapter 3 - Matrices - Derivation of Symmetric and Skew-Symmetric Parts.md",
     "Maths/ma.md",
     "Maths/Maths Doubts",
-    "Maths/Maths chapter 3/Chapter 3 - Matrices - Part 10 - Elementary Operations (Transformations) on a Matrix.md",
     "logs/13 July 2025.md",
     "logs/2025-06-20.md",
     "logs/2025-06-20 - Raw.md",
-    "logs/2025-06-23 - Raw.md",
-    "logs/2025-06-21 - Raw.md",
-    "logs/2025-06-22 - Raw.md",
-    "README.md",
     "download.wav",
-    "Physics study set/Physics Notes/Physics Chapter 1 Electric Charges and Fields notes.md",
-    "Maths/Maths chapter 3/Chapter 3- Matrices - Part 4- Operations on Matrices.md",
-    "Maths/Maths chapter 3/Chapter 3 - Matrices - Part 2- Definition and Types of Matrices.md",
-    "Maths/Maths chapter 3/Chapter 3 - Matrices - Part 3 - Equality of Matrices.md",
     "Maths/Maths chapter 3",
     "Maths",
     "ultimate Plane.png",
-    "2025-06-24 - Raw.md",
     "Final Initial Research.pdf",
     "research.pdf",
-    "Chemistry study set/Chemistry Notes/Physics Chapter 1 Electric Charges and Fields notes.md",
     "Untitled 2.pdf",
-    "Chemistry study set/Chemistry Checklist topics/Checklist of topics in Physics chapter 1.md",
     "Chemistry study set/Chemistry Notes",
     "Chemistry study set/Chemistry Checklist topics",
     "Chemistry study set",
-    "Physics study set/Physics Checklist topics/Checklist of topics in Physics chapter 1.md",
     "Resources/AI Resources/Screenshot (50).png",
     "Resources/AI Resources/Screenshot (53).png",
     "Resources/AI Resources/Screenshot (52).png",
