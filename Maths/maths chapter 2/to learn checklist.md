@@ -1,0 +1,2 @@
+- [x] learn the basic trigno table 
+- [ ] the ch 2 trigno table range and domain etc
